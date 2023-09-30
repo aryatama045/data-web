@@ -5995,6 +5995,7 @@ screen and (-ms-high-contrast:active) {
 .site-header__logo img {
     position: fixed;
     right: 15px;
+    width: 22%;
 }
 
 .site-header__logo a {
