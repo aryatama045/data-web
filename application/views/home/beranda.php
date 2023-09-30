@@ -135,18 +135,18 @@ $iden = $this->db->query("SELECT * FROM tb_web_identitas where id_identitas='1'"
 
             <div class=" tm-hero-text-container">
                 <div class="tm-hero-text-container-inner">
-                    <img src="<?= base_url('assets/home/') ?>center.png" alt="">
+                    <img src="<?= base_url('assets/') ?>beranda1.png" alt="">
                 </div>
                 <div class="tm-hero-text-container-inner2 ">
                 <!--d-md-block d-none-->
-                    <img src="<?= base_url('assets/home/') ?>center2.png" alt="">
+                    <img src="<?= base_url('assets/') ?>beranda2.png" alt="">
                 </div>    
                 <div class="tm-hero-text-container-inner4 ">
-                    <img src="<?= base_url('assets/home/') ?>center4.png" alt="">
+                    <img src="<?= base_url('assets/') ?>beranda4.png" alt="">
                 </div> 
                 <div class="tm-hero-text-container-inner3 ">
                 <!--d-md-block d-none-->
-                    <img src="<?= base_url('assets/home/') ?>center3.png" alt="">
+                    <img src="<?= base_url('assets/') ?>beranda3.png" alt="">
                 </div> 
                 <!-- <div class="tm-hero-text-container-inner5">
                     <div class="img-center-5">
